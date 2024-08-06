@@ -5,7 +5,8 @@ import Signup from './pages/Signup'
 const App = () => {
   return (
     <div>
-      <Signin />
+      {/* <Signin /> */}
+      <Signup/>
     </div>
 
   )
